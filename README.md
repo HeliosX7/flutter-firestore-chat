@@ -1,6 +1,8 @@
 # Fire Chat 🔥
 
-A new Flutter project.
+A Chat application made using Flutter and Firebase. It provides user authentication and realtime synchronization of messages across all users.
+
+<img src="https://github.com/HeliosX7/flutter-firestore-chat/blob/master/images/stack.JPG" height="200">
 
 ## Getting Started
 
@@ -24,4 +26,17 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Screens
 
+<p>
+<img src="https://github.com/HeliosX7/flutter-firestore-chat/blob/master/images/register.jpg" width="280" height="550">
+<img src="https://github.com/HeliosX7/flutter-firestore-chat/blob/master/images/login.jpg" width="280" height="550">
+<img src="https://github.com/HeliosX7/flutter-firestore-chat/blob/master/images/dialog.jpg" width="280" height="550">
+</p>
+<br>
+<p>
+<img src="https://github.com/HeliosX7/flutter-firestore-chat/blob/master/images/chat1.jpg" width="280" height="550">
+<img src="https://github.com/HeliosX7/flutter-firestore-chat/blob/master/images/chat2.jpg" width="280" height="550">
+</p>
+
 ### GIF
+
+<img src="https://github.com/HeliosX7/flutter-firestore-chat/blob/master/images/firechat.gif" width="280" height="550">
